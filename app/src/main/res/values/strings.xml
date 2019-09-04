@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFirebaseAuth2019</string>
+    <string name="facebook_application_id" translatable="false">485668502011820</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb485668502011820</string>
+</resources>
